@@ -1,6 +1,15 @@
-/**AKASH AGRAWALL
-   201202061 **/
-I have used man pages and googled for finding out the functions of some commands
-I have also used www.stackoverflow.com website for this
-I have referred www.stackoverflow.com website for viewing the parse function as it was showing error in my case
+/** Author: Akash Agrawall
+    IIIT Hyderabad **/
+
+This is a simple project on linux terminal which involves implementation of:
+1. All foreground Processes.
+2. All background Processes.
+3. Pipe implementation
+4. cd command implementation
+
+This will be modified in future with flow of time. Do have a look at the code.
+
+Cheers,
+Akash
+
 
